@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# EndSARS
+# EndPoliceBrutalityInNigeria
+
 echo "Input the number of your Linux distro";
 echo "1: Debian/Ubuntu/Linux Mint";
 echo "2: ArchLinux/Manjaro";

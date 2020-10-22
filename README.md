@@ -1,5 +1,19 @@
-# ProtonVPN Setup for #EndSARS #EndPoliceBrutalityInNigeria
-Easily sets up ProtonVPN on your Linux machine <br />
+# ProtonVPN Setup #EndSARS #EndPoliceBrutalityInNigeria
+Easily install ProtonVPN on your Linux/GNU machine <br />
+<ul>
+<h2>Works for</h2>
+<li>
+Ubuntu/Debian/Linux Mint
+</li>
+<li>
+ArchLinux/Manjaro
+</li>
+<li>
+SUSE
+<li>
+Fedora/CentOs/RHEL
+</li>
+</ul>
 <i>The scripts follows installation procedures from the protonvpn website <a href="https://protonvpn.com/support/linux-vpn-tool/">ProtonVPN command-line tool for Linux</a></i>
 <ul>
 <h2>How To </h2>
